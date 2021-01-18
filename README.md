@@ -1,10 +1,5 @@
-Lucas Anseloni Barros 👨‍💻
-
-Linkedin
-https://www.linkedin.com/in/lucasansbarros/
-
-Hellooo! 👋 Welcome to my profile
-My name is Lucas and ...:
+### Hi there 👋
+## I'm Lucas Barros
 
 😄 I really like to learn
 
@@ -13,3 +8,16 @@ My name is Lucas and ...:
 📚 Currently studying Java and Spring Boot
 
 🌍 And I also like to travel, dance and financial market
+
+<hr />
+
+## Connect with me:
+<a href="https://www.linkedin.com/in/lucasansbarros/" target="_blank">
+
+<hr />
+
+## My Skills
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
+<hr />
+
+![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasAnseloni&show_icons=true&count_private=true&theme=radical)
