@@ -12,12 +12,11 @@
 <hr />
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/lucasansbarros/" target="_blank">
-
+https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg
 <hr />
 
 ## My Skills
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/devicons/devicon@v2.8.2/devicon.min.css">
+https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg
 <hr />
 
 ![Lucas's github stats](https://github-readme-stats.vercel.app/api?username=LucasAnseloni&show_icons=true&count_private=true&theme=radical)
