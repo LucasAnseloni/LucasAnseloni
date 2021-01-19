@@ -5,8 +5,6 @@
 
 - 🚀 I'm studing at **Generation Brasil**
 
-- 🚀 I’m currently learning **Java and Spring Boot**
-
 - 🚀 **My hobbies include  traveling, dancing and financial market**
 
 <h3 align="left">Connect with me:</h3> 
