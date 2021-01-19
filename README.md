@@ -1,4 +1,4 @@
-<h2 align="center">Hi 👋, I'm Lucas Barros</h2>
+<h1 align="center">Hi 👋, I'm Lucas Barros</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
 - 🚀 I’m graduated in business information by **FATEC São Bernardo do Campo**
