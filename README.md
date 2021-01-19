@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java and Spring Boot**
 
-- ⚡ Fun fact **I also like to travel, dance and financial market**
+- ⚡ **I  like to travel, dance and financial market**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
