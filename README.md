@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Lucas Barros</h1>
 <h3 align="center">Desenvolvedor Full Stack</h3>
 
-- 🌱 I’m graduated in business information by **FATEC São Bernardo do Campo**
+- 🚀 I’m graduated in business information by **FATEC São Bernardo do Campo**
 
-- 🌱 I'm studing at **Generation Brasil**
+- 🚀 I'm studing at **Generation Brasil**
 
-- 🌱 I’m currently learning **Java and Spring Boot**
+- 🚀 I’m currently learning **Java and Spring Boot**
 
-- ⚡ **I  like to travel, dance and financial market**
+- 🚀 **My hobbies include  traveling, dancing and financial market**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
