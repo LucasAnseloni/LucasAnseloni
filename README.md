@@ -9,7 +9,7 @@
 
 - 🚀 **My hobbies include  traveling, dancing and financial market**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me:</h3> 
 <p align="left">
 <a href="https://linkedin.com/in/lucasansbarros" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasansbarros" height="50" width="50" /></a>
 </p>
