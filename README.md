@@ -3,7 +3,7 @@
 
 - 🚀 I’m graduated in business information by **FATEC São Bernardo do Campo**
 
-- 🚀 I'm studing at **Generation Brasil**
+- 🚀 I'm work at **CI&T**
 
 - 🚀 **My hobbies include  traveling, dancing and financial market**
 
